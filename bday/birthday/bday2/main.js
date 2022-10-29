@@ -1,7 +1,7 @@
 const app = Vue.createApp({
     data: function() {
-      return {
-        var1: ''
-      }
-    }
+       return {
+         var1: ''
+       }
+     }
 })
